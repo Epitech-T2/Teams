@@ -1,0 +1,32 @@
+100 -> help OK
+200 -> login OK
+201 -> logout OK
+202 -> send OK
+203 -> subscibe OK
+204 -> unsubscribe OK
+205 -> create (team) OK
+206 -> create (channel) OK
+207 -> create (thread) OK
+208 -> create (reply) OK
+300 -> users
+301 -> user
+302 -> messages
+303 -> subscribed
+304 -> subscribed (team)
+305 -> list (team)
+306 -> list (channel)
+307 -> list (thread)
+308 -> list (reply)
+309 -> info (team)
+310 -> info (channel)
+311 -> info (thread)
+312 -> info (reply)
+313 -> info shared
+400 -> error (exist)
+401 -> error (unauthorized)
+402 -> error (unknown user)
+403 -> error (unknown team)
+404 -> error (unknown channel)
+405 -> error (unknown thread)
+500 -> error (not found)
+501 -> error (invalid)
